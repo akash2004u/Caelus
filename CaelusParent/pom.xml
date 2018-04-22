@@ -6,4 +6,7 @@
   <packaging>pom</packaging>
   <name>Caelus Parent</name>
   <description>Parent project for Caelus</description>
+  <modules>
+  	<module>CaelusWeb</module>
+  </modules>
 </project>
